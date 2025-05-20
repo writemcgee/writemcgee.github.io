@@ -22,3 +22,12 @@ Here is my overview
 1: The story of my career
 2: What am I passionate about
 3: Call to Action
+
+## My Skills
+### Technical Skills
+
+{% include technicalskills.md %}
+
+### Soft Skills
+
+{% include softtskills.md %}
