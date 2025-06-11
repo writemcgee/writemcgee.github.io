@@ -30,4 +30,4 @@ Here is my overview
 
 ### Soft Skills
 
-{% include softtskills.md %}
+{% include softskills.md %}
